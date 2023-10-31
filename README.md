@@ -1,6 +1,6 @@
 # flutter_bloc_pattern_sample
 
-A new Flutter project.
+A Flutter Bloc Pattern Project.
 
 ## Getting Started
 
